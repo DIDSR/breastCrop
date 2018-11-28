@@ -94,9 +94,8 @@ html_theme_options = {
     'fixed_sidebar': 'true',
     'page_width': '1200px',
     'sidebar_width': '250px',
-    'github_user': 'VICTRE',
+    'github_user': 'DIDSR',
     'github_repo': 'breastCrop',
-    'github_banner': 'true',
     'github_button': 'true'
 }
 
