@@ -3,7 +3,7 @@
 DIDSR Anthropomorphic Breast Phantom Cropping Software
 
 **Documentation and installation instructions are available here:**
-[breastCompress.readthedocs.io](https://breastCrop.readthedocs.io).
+[breastCrop.readthedocs.io](https://breastCrop.readthedocs.io).
 
 The project is in the public domain within the United States, and
 copyright and related rights in the work worldwide are waived through
