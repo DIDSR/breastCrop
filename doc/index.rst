@@ -13,7 +13,8 @@ breast phantoms.  It is designed to be used with anthropomorphic voxelized whole
 breastCompress.
 
 .. image:: VICTRE.png
-
+   :target: https://github.com/DIDSR/VICTRE
+	   
 This software  was developed as part of the `Virtual Imaging
 Clinical Trials for Regulatory Evaluation (VICTRE) project <https://github.com/DIDSR/VICTRE>`_ at the `U. S. Food and Drug Administration <https://www.fda.gov>`_.
 
